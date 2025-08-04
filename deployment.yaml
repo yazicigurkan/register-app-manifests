@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: register-app-container
-        image: grknyzc53/register-app-pipeline:1.0.0-26
+        image: grknyzc53/register-app-pipeline:1.0.0-32
         ports:
         - containerPort: 8080
